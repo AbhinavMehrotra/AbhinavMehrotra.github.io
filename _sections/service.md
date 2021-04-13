@@ -10,6 +10,7 @@ description: >
 
 
 <B>Keynotes</B>
+* Ubittention workshop at UbiComp (2019)
 * Smarticipation workshop at UbiComp (2017)
 
 
@@ -32,12 +33,13 @@ description: >
 * Interactive, Multimedia, Wearable and Ubiquitous Technologies
 
 <B>Reviewer -- Conferences and Workshops</B>
+* NeurIPs: Conference on Neural Information Processing Systems (2021)
 * CHI: ACM Conference on Human Factors in Computing Systems. (2016, 2017, 2018) 
 * MobileHCI: ACM Conference on Human-Computer Interaction with Mobile Devices and Services. (2017, 2018)
 * UbiComp: ACM Joint Conference on Pervasive and Ubiquitous Computing. (2016) ISWC: ACM Symposium on Wearable Computers. (2016)
 * DIS: ACM Conference on Designing Interactive Systems. (2016)
 * PervasiveHealth: ACM Conference on Pervasive Computing Technologies for Health- care. (2015)
 * MobiCASE: ACM Conference on Mobile Computing, Applications and Services. (2015, 2016)
-* MUM: ACM Conference on Mobile and Ubiquitous Multimedia. (2015, 2016) INFOCOM: IEEE Conference on Computer Communications. (2016)
+* INFOCOM: IEEE Conference on Computer Communications. (2016)
 
 
