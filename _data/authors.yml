@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             | 
-    I am a Machine Learning Engineer at Samsung AI Center, Cambridge. My main areas of interest include context-aware computing and anticipatory systems. Before joining Samsung, I was a postdoctoral researcher at University College London. 
+    I am a Machine Learning Research Engineer at Samsung AI Center, Cambridge. My main areas of interest include context-aware computing and anticipatory systems. Before joining Samsung, I was a postdoctoral researcher at University College London. 
 
 
   # This photo will be used in the about section
