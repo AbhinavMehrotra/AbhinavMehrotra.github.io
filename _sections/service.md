@@ -18,7 +18,7 @@ description: >
 * Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 
 <B>Technical Program Committee Member</B>
-* NeurIPs: Conference on Neural Information Processing Systems (2021)
+* NeurIPS: Conference on Neural Information Processing Systems (2021)
 * MobiCASE (2018) 
 * MobileSoft (2017) 
 * PervasiveHealth (2017, 2018)  
