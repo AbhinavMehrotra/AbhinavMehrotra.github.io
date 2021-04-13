@@ -15,12 +15,88 @@ description: >
 
 
 
+<B>2021</B>
+
+<font size="2">
+<B>NAS-Bench-ASR: Extending the Scope of NAS Algorithms to ASR Domain</B>  <BR>
+A. Mehrotra, A. Ramos, S. Bhattacharya, L. Dudziak, R. Vipperla, M. Abdelfattah, S. Ishtiaq, and N. D. Lane. ICLR'21. 
+</font>
+<BR>
+  
+  
+<font size="2">
+<B>Zero-cost Proxy Tasks for Light Weight NAS</B>  <BR>
+M. Abdelfattah, L. Dudziak, A. Mehrotra, N. D. Lane. ICLR'21.
+</font>
+<BR>
+  
+  
+<font size="2">
+<B>Designing Robust Models for Behaviour Prediction using Sparse Data from Mobile Sensing: A Case Study of Office Workers</B>  <BR>
+S. Cavdar, T. Temizel, A. Mehrotra, M. Musolesi, P. Tino. ACM Transactions on Computing for HEALTH. 2021.
+</font>
+<BR>
+
+
+
+<B>2020</B>
+
+
+
+<font size="2">
+<B>Iterative Compression of End-to-End ASR Model using Reinforcement Learning</B>  <BR>
+A. Mehrotra, L. Dudziak, J. Yeo, Y. Lee, R. Vipperla, M. S. Abdelfattah, S. Bhattacharya, S. Ishtiaq, A. Ramos, S. Lee, D. Kim, and N. D. Lane. INTERSPEECH'20. 
+</font>
+<BR>
+  
+<font size="2">
+<B>Bunched LPCNet: Vocoder for Low-cost Neural Text-To-Speech Systems</B>  <BR>
+R. Vipperla, S. Park, K. Choo, S. Ishtiaq, K. Min, S. Bhattacharya, A. Mehrotra, A. Ramos, N. D. Lane. INTERSPEECH'20. 
+</font>
+<BR>
+  
+<font size="2">
+<B>Quantifying the Relationships Between Everyday Objects and Emotional States Through Deep Learning based Image Analysis using Smartphones</B>  <BR>
+V. Darvariu, L. Convertino, A. Mehrotra and M. Musolesi. IMWUT 3, 4 (2020). 
+</font>
+<BR>
+  
+<font size="2">
+<B>Intelligent Notification Systems</B>  <BR>
+A. Mehrotra and M. Musolesi. Synthesis Lectures on Mobile and Pervasive Computing, 11(1), i-75. 2020.
+</font>
+<BR>
+  
+<font size="2">
+<B>PokeME: Applying Context-Driven Notifications to Increase Worker Engagement in Mobile Crowd-sourcing</B>  <BR>
+T. Kandappu, A. Mehrotra, A. Misra, M. Musolesi, S. Cheng, L. Meegahapola. CHIIR'20.
+</font>
+<BR>
+  
+
 
 <B>2019</B>
 
+<font size="2">
+<B>A Deep Learning Approach for Temporal Network Based Classification and Regression Problems</B>  <BR>
+A. Pagani, A. Mehrotra and M. Musolesi. Environment and Planning B: Urban Analytics and City Science. 2019.
+</font>
+<BR>
+  
+<font size="2">
+<B>FutureWare: Designing a Middleware for Anticipatory Mobile Computing</B>  <BR>
+A. Mehrotra, V. Pejovic and M. Musolesi. IEEE Transactions of Software Engineering. 2019. 
+</font>
+<BR>
+  
 
-
-
+<font size="2">
+<B>Measures of Neural Similarity</B>  <BR>
+S. Bobadilla-Suarez,  C. Ahlheim,  A. Mehrotra, A. Panos,  B. C. Love. Computational Brain & Behavior. 2019.
+</font>
+<BR>
+  
+  
 <font size="2">
 <B>NotifyMeHere: Intelligent Notification Delivery in Multi-Device Environments</B>  <BR>
 Abhinav Mehrotra, <A HREF="http://www.cs.bham.ac.uk/~rjh/">Robert Hendley</A> and <A HREF="http://www.homepages.ucl.ac.uk/~ucfamus/">Mirco Musolesi</A> <BR>
@@ -46,7 +122,7 @@ In Proceedings of the ACM on Interactive, Mobile, Wearable and Ubiquitous Techno
 <font size="2">
 <B>Intelligent Notification Systems: A Survey of the State of the Art and Research Challenges</B>  <BR>
 Abhinav Mehrotra and <A HREF="http://www.homepages.ucl.ac.uk/~ucfamus/">Mirco Musolesi</A> <BR>
-Submitted for Publication. Preprint available on arXiv: <A HREF="https://arxiv.org/pdf/1711.10171.pdf">arXiv:1711:10171</A>  <BR>
+Preprint available on arXiv: <A HREF="https://arxiv.org/pdf/1711.10171.pdf">arXiv:1711:10171</A>  <BR>
 [<A HREF="https://arxiv.org/pdf/1711.10171.pdf">pdf</A>] 
 </font>
 <BR>
