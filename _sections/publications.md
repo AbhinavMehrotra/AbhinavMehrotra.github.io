@@ -15,84 +15,95 @@ description: >
 
 
 
-<B>2021</B>
+<B>2021</B><BR>
 
 <font size="2">
 <B>NAS-Bench-ASR: Extending the Scope of NAS Algorithms to ASR Domain</B>  <BR>
-A. Mehrotra, A. Ramos, S. Bhattacharya, L. Dudziak, R. Vipperla, M. Abdelfattah, S. Ishtiaq, and N. D. Lane. ICLR'21. 
+A. Mehrotra, A. Ramos, S. Bhattacharya, L. Dudziak, R. Vipperla, M. Abdelfattah, S. Ishtiaq, and N. D. Lane. <BR>
+In ICLR'21. 
 </font>
 <BR>
   
   
 <font size="2">
 <B>Zero-cost Proxy Tasks for Light Weight NAS</B>  <BR>
-M. Abdelfattah, L. Dudziak, A. Mehrotra, N. D. Lane. ICLR'21.
+M. Abdelfattah, L. Dudziak, A. Mehrotra, N. D. Lane. <BR>
+In ICLR'21.
 </font>
 <BR>
   
   
 <font size="2">
 <B>Designing Robust Models for Behaviour Prediction using Sparse Data from Mobile Sensing: A Case Study of Office Workers</B>  <BR>
-S. Cavdar, T. Temizel, A. Mehrotra, M. Musolesi, P. Tino. ACM Transactions on Computing for HEALTH. 2021.
+S. Cavdar, T. Temizel, A. Mehrotra, M. Musolesi, P. Tino. <BR>
+In ACM Transactions on Computing for HEALTH. 2021.
 </font>
 <BR>
 
 
 
-<B>2020</B>
+<B>2020</B><BR>
 
 
 
 <font size="2">
 <B>Iterative Compression of End-to-End ASR Model using Reinforcement Learning</B>  <BR>
-A. Mehrotra, L. Dudziak, J. Yeo, Y. Lee, R. Vipperla, M. S. Abdelfattah, S. Bhattacharya, S. Ishtiaq, A. Ramos, S. Lee, D. Kim, and N. D. Lane. INTERSPEECH'20. 
+A. Mehrotra, L. Dudziak, J. Yeo, Y. Lee, R. Vipperla, M. S. Abdelfattah, S. Bhattacharya, S. Ishtiaq, A. Ramos, S. Lee, D. Kim, and N. D. Lane. <BR>
+In INTERSPEECH'20. 
 </font>
 <BR>
   
 <font size="2">
 <B>Bunched LPCNet: Vocoder for Low-cost Neural Text-To-Speech Systems</B>  <BR>
-R. Vipperla, S. Park, K. Choo, S. Ishtiaq, K. Min, S. Bhattacharya, A. Mehrotra, A. Ramos, N. D. Lane. INTERSPEECH'20. 
+R. Vipperla, S. Park, K. Choo, S. Ishtiaq, K. Min, S. Bhattacharya, A. Mehrotra, A. Ramos, N. D. Lane. <BR>
+In INTERSPEECH'20. 
 </font>
 <BR>
   
 <font size="2">
 <B>Quantifying the Relationships Between Everyday Objects and Emotional States Through Deep Learning based Image Analysis using Smartphones</B>  <BR>
-V. Darvariu, L. Convertino, A. Mehrotra and M. Musolesi. IMWUT 3, 4 (2020). 
+V. Darvariu, L. Convertino, A. Mehrotra and M. Musolesi. <BR>
+In IMWUT 3, 4 (2020). 
 </font>
 <BR>
   
 <font size="2">
 <B>Intelligent Notification Systems</B>  <BR>
-A. Mehrotra and M. Musolesi. Synthesis Lectures on Mobile and Pervasive Computing, 11(1), i-75. 2020.
+A. Mehrotra and M. Musolesi. <BR>
+In Synthesis Lectures on Mobile and Pervasive Computing, 11(1), i-75. 2020.
 </font>
 <BR>
   
 <font size="2">
 <B>PokeME: Applying Context-Driven Notifications to Increase Worker Engagement in Mobile Crowd-sourcing</B>  <BR>
-T. Kandappu, A. Mehrotra, A. Misra, M. Musolesi, S. Cheng, L. Meegahapola. CHIIR'20.
+T. Kandappu, A. Mehrotra, A. Misra, M. Musolesi, S. Cheng, L. Meegahapola. <BR>
+In CHIIR'20.
 </font>
 <BR>
   
 
 
-<B>2019</B>
+<B>2019</B><BR>
 
 <font size="2">
 <B>A Deep Learning Approach for Temporal Network Based Classification and Regression Problems</B>  <BR>
-A. Pagani, A. Mehrotra and M. Musolesi. Environment and Planning B: Urban Analytics and City Science. 2019.
+A. Pagani, A. Mehrotra and M. Musolesi. <BR>
+In Environment and Planning B: Urban Analytics and City Science. 2019.
 </font>
 <BR>
   
 <font size="2">
 <B>FutureWare: Designing a Middleware for Anticipatory Mobile Computing</B>  <BR>
-A. Mehrotra, V. Pejovic and M. Musolesi. IEEE Transactions of Software Engineering. 2019. 
+A. Mehrotra, V. Pejovic and M. Musolesi. <BR>
+In IEEE Transactions of Software Engineering. 2019. 
 </font>
 <BR>
   
 
 <font size="2">
 <B>Measures of Neural Similarity</B>  <BR>
-S. Bobadilla-Suarez,  C. Ahlheim,  A. Mehrotra, A. Panos,  B. C. Love. Computational Brain & Behavior. 2019.
+S. Bobadilla-Suarez,  C. Ahlheim,  A. Mehrotra, A. Panos,  B. C. Love. <BR>
+In Computational Brain & Behavior. 2019.
 </font>
 <BR>
   
@@ -108,7 +119,7 @@ In ACM SIGIR Conference of Human Information Interaction and Retrieval (ACM CHII
 
 
 
-<B>2018</B>
+<B>2018</B><BR>
 
 <font size="2">
 <B>Using Autoencoders to Automatically Extract Mobility Features for Predicting Depressive States</B>  <BR>
@@ -147,7 +158,7 @@ In Proceedings of the ACM CHI Workshop on Next Steps Towards Long Term Self Trac
 <BR>
 
 
-<B>2017</B>
+<B>2017</B><BR>
 
 <font size="2">
 <B>Towards Deep Learning Models for Psychological State Prediction using Smartphone Data: Challenges and Opportunities</B>  <BR>
@@ -223,7 +234,7 @@ Anticipation and Medicine. Springer. 2017. <BR>
 <BR>
 
 
-<B>2016</B>
+<B>2016</B><BR>
 
 
 <img alt="Best Paper Award." width="140" height="140" src="../../~ucfaame/assets/img/CRBadgeNotableItem.jpg" />
@@ -256,7 +267,7 @@ In Proceedings of the 2016 ACM SIGCHI Conference on Human Factors in Computing S
 <BR>
 
 
-<B>2015</B>
+<B>2015</B><BR>
 
 
 <font size="2">
