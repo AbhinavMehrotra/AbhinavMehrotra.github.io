@@ -18,10 +18,11 @@ description: >
 * Interactive, Mobile, Wearable and Ubiquitous Technologies (IMWUT)
 
 <B>Technical Program Committee Member</B>
-* MobiCASE (2018) MobileSoft (2017) PervasiveHealth (2017, 2018) SPWID (2017) 
+* NeurIPs: Conference on Neural Information Processing Systems (2021)
+* MobiCASE (2018) 
+* MobileSoft (2017) 
+* PervasiveHealth (2017, 2018)  
 * Smarticipation (2016)
-* Chair – Student Volunteer
-* MobiCASE (2016)
 
 <B>Reviewer -- Journal/Magazine</B>
 * ACM ToCHI
@@ -33,12 +34,12 @@ description: >
 * Interactive, Multimedia, Wearable and Ubiquitous Technologies
 
 <B>Reviewer -- Conferences and Workshops</B>
-* NeurIPs: Conference on Neural Information Processing Systems (2021)
 * CHI: ACM Conference on Human Factors in Computing Systems. (2016, 2017, 2018) 
 * MobileHCI: ACM Conference on Human-Computer Interaction with Mobile Devices and Services. (2017, 2018)
-* UbiComp: ACM Joint Conference on Pervasive and Ubiquitous Computing. (2016) ISWC: ACM Symposium on Wearable Computers. (2016)
+* UbiComp: ACM Joint Conference on Pervasive and Ubiquitous Computing. (2016) 
+* ISWC: ACM Symposium on Wearable Computers. (2016)
 * DIS: ACM Conference on Designing Interactive Systems. (2016)
-* PervasiveHealth: ACM Conference on Pervasive Computing Technologies for Health- care. (2015)
+* PervasiveHealth: ACM Conference on Pervasive Computing Technologies for Health-care. (2015)
 * MobiCASE: ACM Conference on Mobile Computing, Applications and Services. (2015, 2016)
 * INFOCOM: IEEE Conference on Computer Communications. (2016)
 
