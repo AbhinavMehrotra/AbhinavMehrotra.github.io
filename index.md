@@ -9,6 +9,8 @@ order: 1
 
 # News 
 
+* Paper accepted at ICLR'22: "Conditioning Sequence-to-sequence Models with Learned Activation Functions".
+
 * I am serving as a Program Committee Member for ICLR'22. 
 
 * I am serving as a Program Committee Member for NeurIPS'21.
