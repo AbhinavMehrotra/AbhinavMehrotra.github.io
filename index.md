@@ -13,8 +13,6 @@ order: 1
 
 * I am serving as a Program Committee Member for ICLR'22. 
 
-* I am serving as a Program Committee Member for NeurIPS'21.
-
 * Two papers accepted at ICLR'21: "NAS-Bench-ASR: Extending the Scope of NAS Algorithms to ASR Domain" and "Zero-cost Proxy Tasks for Light Weight NAS".
 
 * Our paper "Designing Robust Models for Behaviour Prediction using Sparse Data from Mobile Sensing: A Case Study of Office Workers" has been accepted at ACM HEALTH.
