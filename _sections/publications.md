@@ -15,6 +15,16 @@ description: >
 
 
 
+
+<B>2022</B><BR>
+
+<font size="2">
+<B>Conditioning Sequence-to-sequence Models with Learned Activation Functions</B>  <BR>
+A. Ramos, A. Mehrotra, N. D. Lane and S. Bhattacharya. <BR>
+In ICLR'22. 
+</font>
+<BR>
+
 <B>2021</B><BR>
 
 <font size="2">
