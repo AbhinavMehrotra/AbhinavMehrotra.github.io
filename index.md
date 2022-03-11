@@ -11,6 +11,8 @@ order: 1
 
 * Paper accepted at ICLR'22: "Conditioning Sequence-to-sequence Models with Learned Activation Functions".
 
+* We won the Samsung best paper award 2021 for "Zero-cost Proxy Tasks for Light Weight NAS" project.
+
 * I am serving as a Program Committee Member for ICLR'22. 
 
 * Two papers accepted at ICLR'21: "NAS-Bench-ASR: Extending the Scope of NAS Algorithms to ASR Domain" and "Zero-cost Proxy Tasks for Light Weight NAS".
