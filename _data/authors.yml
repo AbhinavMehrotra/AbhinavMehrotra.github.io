@@ -8,7 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             | 
-    I am a researcher at Samsung AI Center, Cambridge. My main areas of interest include context-aware computing, audio signal processing and ML systems. Before joining Samsung, I was a postdoctoral researcher at University College London. 
+    I am a Senior Research Scientist at Samsung AI Center, Cambridge. My main areas of interest include enhancing user-experience for AI-based applications, audio signal processing and ML systems. Before joining Samsung, I was a postdoctoral researcher at University College London. 
 
 
   # This photo will be used in the about section
@@ -29,7 +29,7 @@ author1:
     email:           mailto:abhinav.iims@gmail.com
     # resume:          CV_Abhinav_Mehrotra.pdf
     # rss:             https://<url>/feed.xml
-    # google:          <number>
+    google:          https://scholar.google.com/citations?user=AbeyFKwAAAAJ&hl=en
     # vk:              <username>
     # youtube:         <string_string_string>
     # vimeo:           <username>
