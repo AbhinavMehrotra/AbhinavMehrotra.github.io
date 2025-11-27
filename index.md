@@ -9,6 +9,14 @@ order: 1
 
 # News 
 
+* New pre-print "FraQAT: Quantization Aware Training with Fractional bits"
+
+* Our paper "Edit: Efficient diffusion transformers with linear compressed attention" has been accepted at ICCV'25. 
+
+* Our paper "Upcycling Text-to-Image Diffusion Models for Multi-Task Capabilities" has been accepted at ICML'25.
+
+* Our paper "Fast inference through the reuse of attention maps in diffusion models" has been accepted at Corr'25.
+
 * Paper accepted at ICLR'22: "Conditioning Sequence-to-sequence Models with Learned Activation Functions".
 
 * We won the Samsung best paper award 2021 for "Zero-cost Proxy Tasks for Light Weight NAS" project.
