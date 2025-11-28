@@ -24,7 +24,7 @@ author1:
   # Rearrange to change the order in which they appear
   social:
     twitter:         mehrotrabhinav
-    github:          AbhinavMehrotra
+    # github:          AbhinavMehrotra
     #facebook:        mehrotraabhinav
     email:           mailto:abhinav.iims@gmail.com
     # resume:          CV_Abhinav_Mehrotra.pdf
@@ -55,7 +55,7 @@ author1:
     # npm:             <username>
     # hackernews:      <username>
     # trello:          <firstnamelastname>
-    # linkedin:        <firstname-lastname-string>
+    linkedin:        https://www.linkedin.com/in/mehrotraabhinav/
     # xing:            <firstname_lastname_counter>
     # blogger:         <number>
     # delicious:       <username>
