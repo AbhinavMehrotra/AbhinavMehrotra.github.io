@@ -28,13 +28,15 @@ title:                 Abhinav Mehrotra
 # A short description (~150 chars) of the page used for the meta description tag.
 # Can use markdown, but no more than one paragraph (enforced by `>`)
 description:           >
-  Head of GenAI group        
-  Samsung AI Center, Cambridge
+  Head of GenAI group
+  
+  Samsung AI Center, Cambridge       
 
 # A shorter description for the sidebar.
 tagline:               >
-  Head of GenAI group        
-  Samsung AI Center, Cambridge
+  Head of GenAI group
+  
+  Samsung AI Center, Cambridge 
 
 # A list of keywords for your blog
 keywords:              [GenAI, Large Vision Models, Machine Learning Systems]
