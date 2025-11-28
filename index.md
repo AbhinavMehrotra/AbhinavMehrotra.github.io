@@ -9,13 +9,15 @@ order: 1
 
 # News 
 
-* New pre-print "FraQAT: Quantization Aware Training with Fractional bits"
+* We won the Samsung best paper (Silver) award 2025 for "On-Device High-Resolution Image Editing" project.
+  
+* New pre-print "FraQAT: Quantization Aware Training with Fractional bits" (https://arxiv.org/abs/2510.14823)
 
 * Our paper "Edit: Efficient diffusion transformers with linear compressed attention" has been accepted at ICCV'25. 
 
 * Our paper "Upcycling Text-to-Image Diffusion Models for Multi-Task Capabilities" has been accepted at ICML'25.
 
-* Our paper "Fast inference through the reuse of attention maps in diffusion models" has been accepted at Corr'25.
+* Our paper "Fast inference through the reuse of attention maps in diffusion models" has been accepted at CoRR'24.
 
 * Paper accepted at ICLR'22: "Conditioning Sequence-to-sequence Models with Learned Activation Functions".
 
@@ -28,8 +30,6 @@ order: 1
 * Two papers accepted at INTERSPEECH'20: "Iterative Compression of End-to-End ASR Model using Reinforcement Learning" and "Bunched LPCNet: Vocoder for Low-cost Neural Text-To-Speech Systems.".
 
 * Our book "Intelligent Notification Systems" is now available as Synthesis Lectures on Mobile and Pervasive Computing (Morgan&Claypool Publishers) 2020.
-
-* We won the Best Paper Award at ACM CHIIR'19 for "NotifyMeHere: Intelligent Notification Delivery in Multi-Device Environments".
 
 
 
