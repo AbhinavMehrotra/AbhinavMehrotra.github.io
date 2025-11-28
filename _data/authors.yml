@@ -8,8 +8,7 @@ author1:
   # Used at the bottom of each page and at the top of the `about` layout
   # Markdown enabled, can use multiple paragraphs (enabled by `|`)
   about:             | 
-    I am a Senior Research Scientist at Samsung AI Center, Cambridge. My main areas of interest include enhancing user-experience for AI-based applications, audio signal processing and ML systems. Before joining Samsung, I was a postdoctoral researcher at University College London. 
-
+    I am a Principal Scientist and Head of the GenAI group at Samsung AI Center, Cambridge. My research focuses on building efficient, scalable, and robust generative AI systems for computer vision applications that enhances user-experience. I’m deeply committed to driving ideas end-to-end, from early exploration to peer-reviewed publications, and ultimately into real, deployable products used at scale. More broadly, my work aims to create generative technologies that are efficient, reliable, and ready for real-world deployment.
 
   # This photo will be used in the about section
   # picture:
